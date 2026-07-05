@@ -37,7 +37,7 @@ function App() {
       {/* <ExampleUseRef /> */}
       {/* <Counter /> */}
       {/* <AppRoute /> */}
-      {/* <Pagination /> */}
+      <Pagination />
       {/* <ProgressBarExample /> */}
       {/* <CounterReducerApp /> */}
       {/* <TodoAppExample /> */}
